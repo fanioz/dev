@@ -1,10 +1,10 @@
 const profile = {
-  name: "Ervandra Halim",
-  title: "Senior Software Engineer",
-  email: "ervandra.halim@gmail.com",
+  name: "Rifani Arsyad",
+  title: "Digital Maker",
+  email: "fanio.zilla@gmail.com",
   phone: "+6287708770800",
   photo: "https://www.ervandra.com/wp-content/uploads/2020/12/ervan-round.png",
-  about: "I'm Ervandra Halim, a Software Engineer. Through my entire career, i realize that i love the most to conceptualize a website or web applications, write technical specifications and develop it with my team into a high-quality applications that are feasible, scalable, tesable and measurable that will also meet with the business requirements.",
+  about: "I'm Rifani Arsyad, a Digital Maker. Through my entire career, i realize that i love the most to conceptualize a website or web applications, write technical specifications and develop it with my team into a high-quality applications that are feasible, scalable, tesable and measurable that will also meet with the business requirements.",
   professionalSkills: [
     "Front-End Development",
     "HTML & CSS (SASS)",
